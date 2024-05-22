@@ -1186,7 +1186,7 @@ img{
 	font-size: var(--font-16);
 	text-transform: capitalize;
 	display:inline-block;
-	background-color:var(--color-twentyeight);
+	background-color:#00a1fe;
 	font-family:var(--font-family-BeVietnam);
 }
 
@@ -1251,7 +1251,7 @@ img{
 }
 
 .btn-style-three:hover .btn-wrap .text-two{
-	color:var(--color-twentyeight);
+	color:#00a1fe;
 }
 
 .btn-style-three:hover{
@@ -1280,7 +1280,7 @@ img{
 
 .btn-style-three:hover .plus{
 	color:var(--white-color);
-	background-color:var(--color-twentyeight);
+	background-color:#00a1fe;
 }
 
 .btn-style-three:hover:before{
@@ -1301,7 +1301,7 @@ img{
 	font-size: var(--font-16);
 	text-transform: capitalize;
 	display:inline-block;
-	background-color:var(--color-twentyeight);
+	background-color:#00a1fe;
 	font-family:var(--font-family-BeVietnam);
 }
 
@@ -1366,7 +1366,7 @@ img{
 }
 
 .btn-style-four:hover .btn-wrap .text-two{
-	color:var(--color-twentyeight);
+	color:#00a1fe;
 }
 
 .btn-style-four:hover{
@@ -1395,7 +1395,7 @@ img{
 
 .btn-style-four:hover .plus{
 	color:var(--white-color);
-	background-color:var(--color-twentyeight);
+	background-color:#00a1fe;
 }
 
 .btn-style-four:hover:before{
