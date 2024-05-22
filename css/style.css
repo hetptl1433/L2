@@ -5593,6 +5593,7 @@
 .project-section-two{
 	position:relative;
 	overflow:hidden;
+	top:25px;
 	padding-bottom:var(--padding-bottom-70);
 }
 
