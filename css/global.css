@@ -64,8 +64,8 @@
 
 :root{
 	
-	/* #fa4318 in decimal RGB */
-	--main-color: rgb(250,67,24);
+	/* #c13739 in decimal RGB */
+	--main-color: #c13739;
 	--main-color-rgb: 250,67,24;
   
   /* #120600 in decimal RGB */
@@ -1083,7 +1083,7 @@ img{
 	font-size: var(--font-16);
 	text-transform: capitalize;
 	display:inline-block;
-	background-color:var(--color-twentyseven);
+	background-color: #c13739;
 	font-family:var(--font-family-BeVietnam);
 }
 
@@ -1186,7 +1186,7 @@ img{
 	font-size: var(--font-16);
 	text-transform: capitalize;
 	display:inline-block;
-	background-color:#00a1fe;
+	background-color: #c13739;;
 	font-family:var(--font-family-BeVietnam);
 }
 
@@ -1251,7 +1251,7 @@ img{
 }
 
 .btn-style-three:hover .btn-wrap .text-two{
-	color:#00a1fe;
+	color: #c13739;;
 }
 
 .btn-style-three:hover{
@@ -1280,7 +1280,7 @@ img{
 
 .btn-style-three:hover .plus{
 	color:var(--white-color);
-	background-color:#00a1fe;
+	background-color: #c13739;;
 }
 
 .btn-style-three:hover:before{
@@ -1301,7 +1301,7 @@ img{
 	font-size: var(--font-16);
 	text-transform: capitalize;
 	display:inline-block;
-	background-color:#00a1fe;
+	background-color: #c13739;;
 	font-family:var(--font-family-BeVietnam);
 }
 
@@ -1366,7 +1366,7 @@ img{
 }
 
 .btn-style-four:hover .btn-wrap .text-two{
-	color:#00a1fe;
+	color: #c13739;;
 }
 
 .btn-style-four:hover{
@@ -1395,7 +1395,7 @@ img{
 
 .btn-style-four:hover .plus{
 	color:var(--white-color);
-	background-color:#00a1fe;
+	background-color: #c13739;;
 }
 
 .btn-style-four:hover:before{
@@ -1993,7 +1993,7 @@ img{
 	padding:10px 100px 10px 25px;
 	font-size:var(--font-24);
 	display:inline-block;
-	color:var(--color-twentyseven);
+	color: #c13739;;
 	margin-bottom:var(--margin-bottom-20);
 }
 
