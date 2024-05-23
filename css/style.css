@@ -5103,7 +5103,7 @@
 .cta-section-one{
 	position:relative;
 	z-index:1;
-	top:60px;
+	top:95px;
 }
 
 .cta-section-one .inner-container{
@@ -5692,7 +5692,7 @@
 
 .faq-section{
 	position:relative;
-	padding:100px 0px 70px;
+	padding:100px 0px 0px;
 }
 
 .faq-section .title-column{
